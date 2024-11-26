@@ -15,6 +15,6 @@ int main()
     }
     else
     {
-        cout<<"password does not match\n";
+        cout<<"password does not match";
     }
 }
